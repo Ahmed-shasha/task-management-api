@@ -1,0 +1,19 @@
+{
+  "name": "task-management-api",
+  "version": "1.0.0",
+  "description": "Simple Task Management REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "rest-api",
+    "devops"
+  ],
+  "author": "Ahmed Shasha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
